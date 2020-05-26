@@ -28,14 +28,14 @@
 ---
 
 ## 🚀 Navegue
-- [Motivação](#dart-motivação)
+- [Motivação](#deno-motivação)
 - [Projetos da organização](#satellite-projetos-da-organização)
 - [Participe da comunidade ativamente](#speaker-participe-da-comunidade-ativamente)
 - [Código de conduta](#rotating_light-código-de-conduta)
 - [Agradecimentos](#heart-agradecimentos)
 - [Licença](#memo-licença)
 
-## :dart: Motivação
+## :deno: Motivação
 Criar um meio onde programadores que tenham interesse por Deno consigam interagir e contribuir para o crescimento do ecossistema.
 
 A [primeira release](https://deno.land/v1) do Deno foi lançada em 13/05/2020 e cada vez mais dúvidas e issues irão surgir, porém as documentações ainda não são tão completas e por isso comunidades então se unindo para centralizar ideias e compartilhar conhecimento sobre o ecossistema.
